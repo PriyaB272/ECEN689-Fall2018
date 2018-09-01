@@ -22,6 +22,7 @@
 * Samyuktha Sankaran
 * Anirudh Singh Shaktawat
 * Mahalakshmi Sridharan, [mahalakshmisridharan7](https://github.com/mahalakshmisridharan7)
+* Priyadharsheni Balasubramanian, [priyab272](https://github.com/PriyaB272)
 * Ranjith Tamil Selvan, [ranjithtam](https://github.com/ranjithtam)
 * Brandon Thayer, [blthayer](https://github.com/blthayer)
 * Meng-Yen Tsai, [mengyen](https://github.com/kkoo1122)
